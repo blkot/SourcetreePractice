@@ -35,10 +35,10 @@ public class AutomaticCalibration : MonoBehaviour
 
     [SerializeField]
     GameObject marker;
-    Transform pin;
+    //Transform pin;
 
-    Vector3 POINear = new Vector3(0, 0, -2);
-    Vector3 POIFar = new Vector3(0, 0, 2);
+    //Vector3 POINear = new Vector3(0, 0, -2);
+    //Vector3 POIFar = new Vector3(0, 0, 2);
 
     //public string ObjectAnchorStoreName;
 
