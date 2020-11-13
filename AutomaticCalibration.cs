@@ -40,7 +40,7 @@ public class AutomaticCalibration : MonoBehaviour
     Vector3 POINear = new Vector3(0, 0, -2);
     Vector3 POIFar = new Vector3(0, 0, 2);
 
-    public string ObjectAnchorStoreName;
+    //public string ObjectAnchorStoreName;
 
 
 
