@@ -43,6 +43,8 @@ public class AutomaticCalibration : MonoBehaviour
     //public string ObjectAnchorStoreName;
 
 
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -96,6 +98,10 @@ public class AutomaticCalibration : MonoBehaviour
         }
     }
 
+    void RetractPin()
+    {
+        
+    }
     
 
     
